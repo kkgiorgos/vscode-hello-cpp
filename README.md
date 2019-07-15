@@ -20,12 +20,12 @@ Windows 10 supports the Windows Subsystem for Linux which allows us to install a
 3. Fire up the bash shell by pressing Start Key, type `bash` and press `Enter`. This will open up Bash on Ubuntu on Windows.
 
 4. Type the following commands:
-```sh
-sudo apt update
-sudo apt upgrade
-sudo apt install gcc-arm-linux-gnueabi g++-arm-linux-gnueabi
-sudo apt install build-essential
-```
+  ```sh
+  sudo apt update
+  sudo apt upgrade
+  sudo apt install gcc-arm-linux-gnueabi g++-arm-linux-gnueabi
+  sudo apt install build-essential
+  ```
 
 ## Step-by-Step
 1. Download the [vscode-hello-cpp][zip] project from GitHub and unzip it.
@@ -34,17 +34,17 @@ sudo apt install build-essential
    
 2. Open the `vscode-hello-cpp-master` folder in Visual Studio Code.
 
-  ![screenshot](.README/vscode-open-folder.png)
+    ![screenshot](.README/vscode-open-folder.png)
   
-  ![screenshot](.README/vscode-open-folder-dialog.png)
+    ![screenshot](.README/vscode-open-folder-dialog.png)
   
 3. Click *Show Recommendations* when asked.
 
-  ![screenshot](.README/vscode-show-recommendations.png)
+    ![screenshot](.README/vscode-show-recommendations.png)
   
 4. Install the recommended extensions
 
-  ![screenshot](.README/vscode-extensions-recommended.png)
+    ![screenshot](.README/vscode-extensions-recommended.png)
   
 5. Open the *Explorer* activity pane.
 
