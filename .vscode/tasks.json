@@ -1,0 +1,24 @@
+{
+	"version": "2.0.0",
+	"windows": {
+		"options": {
+			"shell": {
+				"executable": "c:\\windows\\system32\\bash.exe",
+				"args": [
+					"-c"
+				]
+			}
+		}
+	},
+	"tasks": [
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "make",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
