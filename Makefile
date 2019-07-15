@@ -1,6 +1,6 @@
 CXX = arm-linux-gnueabi-g++
 CXXFLAGS = -std=c++11
-APP=./Build/run
+APP=./Build/hello
 
 LIB = -L./Libraries
 
