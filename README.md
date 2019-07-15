@@ -74,10 +74,6 @@ Windows 10 supports the Windows Subsystem for Linux which allows us to install a
 11. The *Output* pane will automatically open and show the status of the
     program and any error/debug messages.
 
-    ![screenshot](.README/vscode-output.png)
-
-    ![screenshot](.README/ev3-output.png)
-
 12. Open the source code file, in the folder Sources [hello.cpp](./Sources/hello.cpp), to learn more.
 
 
