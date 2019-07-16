@@ -17,9 +17,11 @@ Windows 10 supports the Windows Subsystem for Linux which allows us to install a
 
 2. Install Ubuntu 16.04 LTS from the Microsoft Store
 
-3. Fire up the bash shell by pressing Start Key, type `bash` and press `Enter`. This will open up Bash on Ubuntu on Windows.
+3. Create a UNIX account on Ubuntu by starting the ubuntu app
 
-4. Type the following commands:
+4. Fire up the bash shell by pressing Start Key, type `bash` and press `Enter`. This will open up Bash on Ubuntu on Windows.
+
+5. Type the following commands:
   ```sh
   sudo apt update
   sudo apt upgrade
